@@ -21,8 +21,8 @@ This monorepo is designed to streamline testing, linting, and automation across 
 
   ### Installation
   ```bash
-  git clone git@github.com:oluwaseunoshikomaiya/qa-monorepo.git
-  cd qa-monorepo
+  git clone git@github.com:pinely-international/qa-monorepo.git
+  cd qa-monorepo/app
   npm install
 
 ## 🧪 Running Tests
