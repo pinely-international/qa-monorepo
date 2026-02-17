@@ -17,7 +17,7 @@ This monorepo is designed to streamline testing, linting, and automation across 
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (>= 18.x)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [bun](https://bun.sh/) or [yarn](https://yarnpkg.com/)
 
   ### Installation
   ```bash
