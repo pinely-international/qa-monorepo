@@ -28,7 +28,7 @@ This monorepo is designed to streamline testing, linting, and automation across 
 ## 🧪 Running Tests
 
   ```bash
-  npm run test
+  bun playwright test
 
 
 
