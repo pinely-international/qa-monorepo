@@ -7,9 +7,9 @@ This monorepo is designed to streamline testing, linting, and automation across 
 
 ## 📦 Structure
 
-- **tests/** → End-to-end and unit tests (Playwright, Jest, etc.)
-- **utils/** → Shared utilities and helpers
-- **config/** → Centralized configuration files (lint, CI/CD, etc.)
+- **packages/tests/** → End-to-end and unit tests (Playwright, Jest, etc.)
+- **packages/utils/** → Shared utilities and helpers
+- **packages/config/** → Centralized configuration files (lint, CI/CD, etc.)
 
 ---
 
@@ -22,7 +22,7 @@ This monorepo is designed to streamline testing, linting, and automation across 
   ### Installation
   ```bash
   git clone git@github.com:pinely-international/qa-monorepo.git
-  cd qa-monorepo/qa-monorepo
+  cd qa-monorepo
   bun install
 
 ## 🧪 Running Tests
